@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpportunityPlugin", "OpportunityPlugin\OpportunityPlugin.csproj", "{F300F46A-570F-4089-99C4-10991A0D6992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F300F46A-570F-4089-99C4-10991A0D6992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F300F46A-570F-4089-99C4-10991A0D6992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F300F46A-570F-4089-99C4-10991A0D6992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F300F46A-570F-4089-99C4-10991A0D6992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F212018B-A66C-4DCA-B4B2-71FE05C6A4D3}
+	EndGlobalSection
+EndGlobal
